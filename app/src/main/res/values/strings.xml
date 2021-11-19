@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Libreria</string>
+    <string name="isbn">ISBN:</string>
+    <string name="titulo">Título:</string>
+    <string name="categoria">Categoria:</string>
+    <string name="autor">Autor:</string>
+    <string name="isbnhint">978-1-56619-909-4</string>
+    <string name="titulohint">Cuentos de Barro</string>
+    <string name="categoriahint">Cuento</string>
+    <string name="autorhint">Salvador Salazar</string>
+    <string name="disponible">Libros Disponibles:</string>
+    <string name="registronl">Registro de Libro</string>
+    <string name="btnreg">REGISTRAR LIBRO</string>
+    <string name="btnaddautr">AGREGAR AUTOR</string>
+    <string name="autorname">Salvador Salazar</string>
+    <string name="borndate">22/11/1899</string>
+    <string name="descript">Descripción</string>
+    <string name="addautor">Agregar Autor</string>
+    <string name="regautor">REGISTRAR AUTOR</string>
+    <string name="updatebook">ACTUALIZAR LIBRO</string>
+    <string name="completetext">Complete todos los campos</string>
+    <string name="correctDescripcion">Escriba una Descripción Correcta</string>
+    <string name="AutorNameCorrect">Escriba un nombre de Autor Correcto</string>
+    <string name="BornDateCorrect">Escriba una fecha correcta.</string>
+    <string name="InvalidISBN">Ingrese un número de ISBN correcto</string>
+    <string name="InvalidBookTitle">Ingrese un titulo correcto</string>
+    <string name="InvalidCategory">Ingrese una categoria correcta</string>
+</resources>
